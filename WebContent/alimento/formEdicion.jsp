@@ -16,7 +16,7 @@
 	<form action="${pageContext.request.contextPath}/alimento/cambiar" method="POST">
 		<input type="hidden" name="id" value="${alimento.id}"/>
 		
-		<label for="nombre">Nombre</label>
+		<label for="nombre">izena</label>
   		<input type="text" name="nombre" id="nombre" value="${alimento.nombre}"/><br>
   		
   		<label for="nombre">Descripción</label>
