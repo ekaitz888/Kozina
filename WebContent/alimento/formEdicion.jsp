@@ -19,7 +19,7 @@
 		<label for="nombre">izena</label>
   		<input type="text" name="nombre" id="nombre" value="${alimento.nombre}"/><br>
   		
-  		<label for="nombre">Descripción</label>
+  		<label for="nombre">deskripzioa</label>
   		<input type="text" name="descripcion" id="descripcion" value="${alimento.descripcion}"/><br>
   		
 		<input type="submit" value="Guardar" name="guardar"/>
